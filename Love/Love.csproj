@@ -8,10 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Love\Bin\.vs\Love\v17\.suo" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="7.0.0" />
     <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
   </ItemGroup>
